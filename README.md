@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Chat Application
 
 A production-oriented full-stack chat application built with React, Express, Socket.io, MongoDB, and JWT authentication.
@@ -63,3 +64,6 @@ Backend runs on `http://localhost:5000` and frontend on `http://localhost:5173` 
 ## Notes
 
 The codebase separates REST controllers, services, and socket handlers so the HTTP and Socket.io layers stay independently testable and scalable.
+=======
+# Chat-Application
+>>>>>>> b7cdde83199bc24945a38e8e1a3b1f66b812c76c
